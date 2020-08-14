@@ -1,19 +1,3 @@
-# React Portfolio
-
-A simple portfolio website made in react for the webinar conducted by Codechef VIT
-
-**Webinar Link:** [http://bit.ly/CCReactPortfolio](http://bit.ly/CCReactPortfolio)
-
-## Screenshot
-
-
-
-## How to run
-
-1. git clone `https://github.com/MadhavBahlMD/portfolio`
-2. cd `portfolio`
-3. npm install
-4. npm run
 
 ## Enhancements
 
