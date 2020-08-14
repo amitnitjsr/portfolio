@@ -6,9 +6,7 @@ A simple portfolio website made in react for the webinar conducted by Codechef V
 
 ## Screenshot
 
-![image](https://user-images.githubusercontent.com/26179770/82739072-56607180-9d5a-11ea-8117-0f7df5bf6b00.png)
 
-![image](https://user-images.githubusercontent.com/26179770/82746296-d236da00-9dab-11ea-8fbe-3a897cda2164.png)
 
 ## How to run
 
